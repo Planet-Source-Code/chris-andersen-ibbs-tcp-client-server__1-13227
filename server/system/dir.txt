@@ -1,0 +1,2 @@
+System Files directory for daily news, message board messages, etc.
+Edit news.txt to change your Servers News.

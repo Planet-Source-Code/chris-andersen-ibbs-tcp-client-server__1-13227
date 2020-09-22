@@ -1,0 +1,11 @@
+Setup user privileges(levels) which can be setup by the admin
+Each level can have different online time per connect, number of downloads per day, perhaps more
+Error trapping.
+
+These are the last 4 major additions. I am so close to done now.
+
+Minor ones for later are:
+Change DAO to ADO
+Work on GUI some more
+Add favorites list to login form.
+Add color support for written mail and messages!
